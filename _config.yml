@@ -9,10 +9,14 @@
 title: 猥琐大叔的blog
 email: gaoxt1983 at 163.com
 description: > # this means to ignore newlines until "baseurl:"
-  在这里，我将写下自己对于编程的经验，有可能是转贴~~~~
+  在这里，我将写下自己对于编程的经验，有可能是转贴(会有标注)~~~~
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gaoxt1983.github.io" # the base hostname & protocol for your site
 github_username:  gaoxt1983
 
 # Build settings
 markdown: kramdown
+
+paginate: 5
+
+version: 0.1
